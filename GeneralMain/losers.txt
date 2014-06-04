@@ -1,0 +1,158 @@
+Player Number 2 -> lopez with score 383
+
+Player Number 2 -> steve with score 228
+
+Player Number 6 -> bluum with score 293
+
+Player Number 8 -> hobit with score 366
+
+Player Number 10 -> bob with score 382
+
+Player Number 12 -> bob with score 284
+
+Player Number 15 -> steve with score 226
+
+Player Number 15 -> none with score 0
+
+Player Number 18 -> none with score 0
+
+Player Number 21 -> none with score 0
+
+Player Number 24 -> none with score 0
+
+Player Number 27 -> none with score 0
+
+Player Number 30 -> none with score 0
+
+Player Number 33 -> none with score 0
+
+Player Number 36 -> none with score 0
+
+Player Number 39 -> none with score 0
+
+Player Number 42 -> none with score 0
+
+Player Number 45 -> none with score 0
+
+Player Number 48 -> none with score 0
+
+Player Number 51 -> none with score 0
+
+Player Number 54 -> none with score 0
+
+Player Number 57 -> none with score 0
+
+Player Number 60 -> none with score 0
+
+Player Number 63 -> none with score 0
+
+Player Number 66 -> none with score 0
+
+Player Number 69 -> none with score 0
+
+Player Number 72 -> none with score 0
+
+Player Number 75 -> none with score 0
+
+Player Number 78 -> none with score 0
+
+Player Number 81 -> none with score 0
+
+Player Number 84 -> none with score 0
+
+Player Number 87 -> none with score 0
+
+Player Number 65 -> none with score 0
+
+Player Number 68 -> none with score 0
+
+Player Number 71 -> none with score 0
+
+Player Number 71 -> none with score 0
+
+Player Number 74 -> none with score 0
+
+Player Number 77 -> none with score 0
+
+Player Number 77 -> test hero2 with score 2
+
+Player Number 80 -> test for win with score 5
+
+Player Number 83 -> test hero with score 23
+
+Player Number 86 -> test hero2 with score 2
+
+Player Number 89 -> test for win with score 5
+
+Player Number 92 -> test hero with score 23
+
+Player Number 95 -> test hero with score 23
+
+Player Number 98 -> test hero2 with score 2
+
+Player Number 101 -> test for win with score 5
+
+Player Number 104 -> test hero with score 23
+
+Player Number 107 -> test hero with score 23
+
+Player Number 110 -> test hero with score 23
+
+Player Number 101 -> test pop with score 3
+
+Player Number 104 -> test pop 3 with score 10
+
+Player Number 107 -> test pop2 with score 17
+
+Player Number 110 -> test pop with score 3
+
+Player Number 113 -> test pop 3 with score 10
+
+Player Number 116 -> test pop2 with score 17
+
+Player Number 119 -> test pop2 with score 17
+
+Player Number 115 -> test poper3 with score 3
+
+Player Number 118 -> test poper 5 with score 8
+
+Player Number 121 -> test poper with score 15
+
+Player Number 124 -> test poper3 with score 3
+
+Player Number 127 -> test poper 5 with score 8
+
+Player Number 130 -> test poper with score 15
+
+Player Number 133 -> test poper with score 15
+
+Player Number 136 -> test poper3 with score 3
+
+Player Number 139 -> test poper 5 with score 8
+
+Player Number 142 -> test poper with score 15
+
+Player Number 145 -> test poper with score 15
+
+Player Number 148 -> test poper with score 15
+
+Player Number 139 -> test11 with score 8
+
+Player Number 142 -> test33 with score 16
+
+Player Number 145 -> test22 with score 51
+
+Player Number 146 -> hope1 with score 3
+
+Player Number 149 -> hope2 with score 3
+
+Player Number 150 -> hoper1 with score 7
+
+Player Number 153 -> hoper2 with score 12
+
+Player Number 153 -> steven with score 2
+
+Player Number 156 -> stoner with score 6
+
+Player Number 159 -> Stiviee with score 2
+
